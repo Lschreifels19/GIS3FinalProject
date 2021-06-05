@@ -1,6 +1,6 @@
 # COVID-19 Web App
 
-***Note: R packages sf, tidyverse, and tmap must be loaded for this package***
+***App Use Note: R packages sf, tidyverse, and tmap must be loaded and all data must be loaded and named as they are in zip file for correct functionality***
 
 ## Goals
 
