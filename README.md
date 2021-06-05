@@ -1,5 +1,7 @@
 # COVID-19 Web App
 
+***Note: R packages sf, tidyverse, and tmap must be loaded for this package***
+
 ## Goals
 
   The goal of this RShiny app is to provide users the ability to view Chicago COVID-19 data in an exploratory way, and see how that data relates to socioeconomic status. Large amounts of data such as COVID-19 data can be difficult to view holistically, so this app aims to allow a user to view large amounts of data in a user-friendly way. 
